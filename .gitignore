@@ -1,0 +1,41 @@
+# Unreal Engine 5.7
+
+# Visual Studio
+
+.vs/
+*.VC.db
+*.VC.opendb
+*.sln
+*.suo
+*.opensdf
+*.sdf
+
+# Binaries
+
+Binaries/
+
+# Build files
+
+Build/*
+
+# Derived data
+
+DerivedDataCache/
+
+# Intermediate files
+
+Intermediate/
+
+# Saved files
+
+Saved/
+
+# Unreal auto-generated project files
+
+*.xcodeproj
+*.xcworkspace
+*.sln
+*.VC.db
+*.VC.opendb
+
+# Rider
